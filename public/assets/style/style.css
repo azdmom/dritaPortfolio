@@ -22,14 +22,10 @@ p {
     font-family: Poppins;
 }
 
-/* .navbar-brand {
+.navbar-brand {
     font-size: 20px;
     color: #000 !important;
     font-weight: normal;
-} */
-
-.navImg{
- height: 34px;
 }
 
 #showcase h1 {
@@ -38,7 +34,7 @@ p {
 }
 
 #showcase img {
-    width: 70%;
+    width: 90%;
     margin-left: 60px;
 }
 
@@ -85,8 +81,8 @@ p {
 }
 
 #contact {
-    background-image: url(../images/comp1.jpg);
-    background-size: 90%;
+    background-image: url(../images/fern.jpg);
+    background-size: 100%;
     padding: 20px;
     color: #666;
     border-top: #333 7px solid;
